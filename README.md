@@ -1,7 +1,8 @@
-#H1 Nikole Molina
+# Nikole Molina
 
-#H2 Business Analytics & Information Systems - 2023
+## Business Analytics & Information Systems - 2023
 
-#H2 Tippie College of Business, University of Iowa
+## Tippie College of Business, University of Iowa
 
+[LinkedIn](www.linkedin.com/in/nikole-molina)
 
