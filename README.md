@@ -8,3 +8,4 @@ Pronouns: She/Her/Ella
 
 [LinkedIn](www.linkedin.com/in/nikole-molina)
 
+[Personal Website](https://nikolemolina.me)
