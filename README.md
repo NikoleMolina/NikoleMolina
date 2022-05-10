@@ -1,8 +1,8 @@
 # Nikole Molina
 
 ## Business Analytics & Information Systems - 2023
-## Spanish Minor
-## International Business Certificate
+### Spanish Minor
+### International Business Certificate
 
 ## Tippie College of Business, University of Iowa
 
